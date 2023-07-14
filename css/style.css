@@ -570,8 +570,13 @@ a.btn:nth-child(2)::before{
     animation: glow 0.04s linear forwards;
     animation-delay: calc(var(--i) * 0.05s);
   }
-  
+/* Footer ------------------------------------------------------------------------------*/
+footer {
+  text-align:center;
+  margin-top:8rem ;
+  font-size:-3em;
 
+}
 
 
 /* <keyframs--------------------------------------------------------------------------------> */
